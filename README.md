@@ -6,3 +6,6 @@ It's pretty simple to use and should work on every exploit apart from Android an
 In terms of executors, you should probably use Solara as that's what it was designed with, however it is not the best for performance or script executor by far.
 
 ## THIS HUB IS STILL IN DEVELOPMENT, PLEASE USE WITH CAUTION
+
+Designed with the UI Library, rayfield. Credits:
+https://discord.com/invite/sirius-1123950497347424357
