@@ -1,5 +1,5 @@
 # Pulse
-Pulse is a script hub for roblox.
+## Pulse is a script hub for roblox.
 
 It's pretty simple to use and should work on every exploit apart from Android and IOS.
 
